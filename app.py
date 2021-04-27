@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -334,28 +328,6 @@ app.layout = html.Div(children=[
 if __name__ == '__main__':
 <<<<<<< HEAD
     server = app.server
-=======
-    app.run_server(port=4070)
-
-
-# In[28]:
-
-
-# to do:
-
-# resizing auto-adjusting
-
-# add markdown documentation
-
-# create heroku
-
-# create github documentation
-
-# write intro to sessions
-
-
-# In[ ]:
-
 
 
 >>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
