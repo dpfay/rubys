@@ -1,0 +1,321 @@
+age,race_ethnicity,services_provided,number_of_children,sex,service_date,dv_ht,language,id,age_group,date
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-02-26,HT,English,1,26 to 49,2021-02-26
+40,Hispanic or Latino,Case Management,0,male,2021-01-24,DV,Spanish,2,26 to 49,2021-01-24
+45,Hispanic or Latino,Case Management,0,female,2021-03-04,HT,Spanish,3,26 to 49,2021-03-04
+33,Hispanic or Latino,Case Management,0,female,2021-03-19,DV,English,4,26 to 49,2021-03-19
+51,Hispanic or Latino,Case Management,5,female,2021-02-08,DV,Spanish,5,50 to 64,2021-02-08
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-16,DV,Spanish,6,26 to 49,2021-02-16
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-04,HT,English,7,26 to 49,2021-04-04
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-28,DV,English,8,26 to 49,2021-03-28
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-31,DV,Other,9,26 to 49,2021-03-31
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-08,DV,English,10,26 to 49,2021-03-08
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-01-30,DV,English,11,50 to 64,2021-01-30
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-21,DV,English,12,26 to 49,2021-03-21
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-02-07,DV,English,13,26 to 49,2021-02-07
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-03-07,HT,English,14,26 to 49,2021-03-07
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-01-16,DV,English,15,26 to 49,2021-01-16
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-11,HT,Spanish,16,26 to 49,2021-03-11
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-03-13,DV,English,17,26 to 49,2021-03-13
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-03-23,DV,Other,18,18 to 25,2021-03-23
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-11,DV,English,19,26 to 49,2021-03-11
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-03-14,DV,Other,20,26 to 49,2021-03-14
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-02-14,HT,English,21,26 to 49,2021-02-14
+40,Hispanic or Latino,Case Management,0,male,2021-04-09,DV,Spanish,22,26 to 49,2021-04-09
+45,Hispanic or Latino,Case Management,0,female,2021-04-19,HT,Spanish,23,26 to 49,2021-04-19
+33,Hispanic or Latino,Case Management,0,female,2021-02-15,DV,English,24,26 to 49,2021-02-15
+51,Hispanic or Latino,Case Management,5,female,2021-03-06,DV,Spanish,25,50 to 64,2021-03-06
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-09,DV,Spanish,26,26 to 49,2021-04-09
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-24,HT,English,27,26 to 49,2021-01-24
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-04-10,DV,English,28,26 to 49,2021-04-10
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-04-15,DV,Other,29,26 to 49,2021-04-15
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-21,DV,English,30,26 to 49,2021-02-21
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-03-16,DV,English,31,50 to 64,2021-03-16
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-27,DV,English,32,26 to 49,2021-03-27
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-02-23,DV,English,33,26 to 49,2021-02-23
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-28,HT,English,34,26 to 49,2021-02-28
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-21,DV,English,35,26 to 49,2021-03-21
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-02-27,HT,Spanish,36,26 to 49,2021-02-27
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-01-22,DV,English,37,26 to 49,2021-01-22
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-04-16,DV,Other,38,18 to 25,2021-04-16
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-01-28,DV,English,39,26 to 49,2021-01-28
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-01-18,DV,Other,40,26 to 49,2021-01-18
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-01-16,HT,English,41,26 to 49,2021-01-16
+40,Hispanic or Latino,Case Management,0,male,2021-01-27,DV,Spanish,42,26 to 49,2021-01-27
+45,Hispanic or Latino,Case Management,0,female,2021-03-30,HT,Spanish,43,26 to 49,2021-03-30
+33,Hispanic or Latino,Case Management,0,female,2021-03-09,DV,English,44,26 to 49,2021-03-09
+51,Hispanic or Latino,Case Management,5,female,2021-04-12,DV,Spanish,45,50 to 64,2021-04-12
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-20,DV,Spanish,46,26 to 49,2021-01-20
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-16,HT,English,47,26 to 49,2021-02-16
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-01-22,DV,English,48,26 to 49,2021-01-22
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-31,DV,Other,49,26 to 49,2021-03-31
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-04-12,DV,English,50,26 to 49,2021-04-12
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-07,DV,English,51,50 to 64,2021-04-07
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-13,DV,English,52,26 to 49,2021-03-13
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-02-16,DV,English,53,26 to 49,2021-02-16
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-06,HT,English,54,26 to 49,2021-02-06
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-14,DV,English,55,26 to 49,2021-03-14
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-04-06,HT,Spanish,56,26 to 49,2021-04-06
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-25,DV,English,57,26 to 49,2021-02-25
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-01-15,DV,Other,58,18 to 25,2021-01-15
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-04-16,DV,English,59,26 to 49,2021-04-16
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-01-26,DV,Other,60,26 to 49,2021-01-26
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-02-03,HT,English,61,26 to 49,2021-02-03
+40,Hispanic or Latino,Case Management,0,male,2021-02-08,DV,Spanish,62,26 to 49,2021-02-08
+45,Hispanic or Latino,Case Management,0,female,2021-04-07,HT,Spanish,63,26 to 49,2021-04-07
+33,Hispanic or Latino,Case Management,0,female,2021-04-17,DV,English,64,26 to 49,2021-04-17
+51,Hispanic or Latino,Case Management,5,female,2021-04-09,DV,Spanish,65,50 to 64,2021-04-09
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-10,DV,Spanish,66,26 to 49,2021-02-10
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-27,HT,English,67,26 to 49,2021-02-27
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-02-21,DV,English,68,26 to 49,2021-02-21
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-07,DV,Other,69,26 to 49,2021-02-07
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-15,DV,English,70,26 to 49,2021-02-15
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-12,DV,English,71,50 to 64,2021-04-12
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-04-12,DV,English,72,26 to 49,2021-04-12
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-01-18,DV,English,73,26 to 49,2021-01-18
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-02,HT,English,74,26 to 49,2021-02-02
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-02-08,DV,English,75,26 to 49,2021-02-08
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-02-19,HT,Spanish,76,26 to 49,2021-02-19
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-01-28,DV,English,77,26 to 49,2021-01-28
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-01-21,DV,Other,78,18 to 25,2021-01-21
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-13,DV,English,79,26 to 49,2021-03-13
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-02-09,DV,Other,80,26 to 49,2021-02-09
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-01-26,HT,English,81,26 to 49,2021-01-26
+40,Hispanic or Latino,Case Management,0,male,2021-03-23,DV,Spanish,82,26 to 49,2021-03-23
+45,Hispanic or Latino,Case Management,0,female,2021-02-28,HT,Spanish,83,26 to 49,2021-02-28
+33,Hispanic or Latino,Case Management,0,female,2021-02-25,DV,English,84,26 to 49,2021-02-25
+51,Hispanic or Latino,Case Management,5,female,2021-04-06,DV,Spanish,85,50 to 64,2021-04-06
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-13,DV,Spanish,86,26 to 49,2021-03-13
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-21,HT,English,87,26 to 49,2021-03-21
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-22,DV,English,88,26 to 49,2021-03-22
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-17,DV,Other,89,26 to 49,2021-03-17
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-01-30,DV,English,90,26 to 49,2021-01-30
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-01-26,DV,English,91,50 to 64,2021-01-26
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-26,DV,English,92,26 to 49,2021-03-26
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-13,DV,English,93,26 to 49,2021-03-13
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-11,HT,English,94,26 to 49,2021-02-11
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-02-28,DV,English,95,26 to 49,2021-02-28
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-05,HT,Spanish,96,26 to 49,2021-03-05
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-04,DV,English,97,26 to 49,2021-02-04
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-01-15,DV,Other,98,18 to 25,2021-01-15
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-02,DV,English,99,26 to 49,2021-03-02
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-02-06,DV,Other,100,26 to 49,2021-02-06
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-01-17,HT,English,101,26 to 49,2021-01-17
+40,Hispanic or Latino,Case Management,0,male,2021-02-16,DV,Spanish,102,26 to 49,2021-02-16
+45,Hispanic or Latino,Case Management,0,female,2021-04-20,HT,Spanish,103,26 to 49,2021-04-20
+33,Hispanic or Latino,Case Management,0,female,2021-02-26,DV,English,104,26 to 49,2021-02-26
+51,Hispanic or Latino,Case Management,5,female,2021-02-23,DV,Spanish,105,50 to 64,2021-02-23
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-11,DV,Spanish,106,26 to 49,2021-03-11
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-10,HT,English,107,26 to 49,2021-04-10
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-14,DV,English,108,26 to 49,2021-03-14
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-01-19,DV,Other,109,26 to 49,2021-01-19
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-19,DV,English,110,26 to 49,2021-02-19
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-03-04,DV,English,111,50 to 64,2021-03-04
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-01-28,DV,English,112,26 to 49,2021-01-28
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-02-06,DV,English,113,26 to 49,2021-02-06
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-04-17,HT,English,114,26 to 49,2021-04-17
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-13,DV,English,115,26 to 49,2021-03-13
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-17,HT,Spanish,116,26 to 49,2021-03-17
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-09,DV,English,117,26 to 49,2021-02-09
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-03-13,DV,Other,118,18 to 25,2021-03-13
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-04-06,DV,English,119,26 to 49,2021-04-06
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-01-26,DV,Other,120,26 to 49,2021-01-26
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-01-26,HT,English,121,26 to 49,2021-01-26
+40,Hispanic or Latino,Case Management,0,male,2021-04-02,DV,Spanish,122,26 to 49,2021-04-02
+45,Hispanic or Latino,Case Management,0,female,2021-03-13,HT,Spanish,123,26 to 49,2021-03-13
+33,Hispanic or Latino,Case Management,0,female,2021-01-17,DV,English,124,26 to 49,2021-01-17
+51,Hispanic or Latino,Case Management,5,female,2021-02-22,DV,Spanish,125,50 to 64,2021-02-22
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-25,DV,Spanish,126,26 to 49,2021-01-25
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-15,HT,English,127,26 to 49,2021-02-15
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-02-23,DV,English,128,26 to 49,2021-02-23
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-24,DV,Other,129,26 to 49,2021-03-24
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-24,DV,English,130,26 to 49,2021-03-24
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-02-10,DV,English,131,50 to 64,2021-02-10
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-01-15,DV,English,132,26 to 49,2021-01-15
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-15,DV,English,133,26 to 49,2021-03-15
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-27,HT,English,134,26 to 49,2021-02-27
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-04-14,DV,English,135,26 to 49,2021-04-14
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-08,HT,Spanish,136,26 to 49,2021-03-08
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-01-30,DV,English,137,26 to 49,2021-01-30
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-02-12,DV,Other,138,18 to 25,2021-02-12
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-04-24,DV,English,139,26 to 49,2021-04-24
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-04-13,DV,Other,140,26 to 49,2021-04-13
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-04-11,HT,English,141,26 to 49,2021-04-11
+40,Hispanic or Latino,Case Management,0,male,2021-03-15,DV,Spanish,142,26 to 49,2021-03-15
+45,Hispanic or Latino,Case Management,0,female,2021-02-08,HT,Spanish,143,26 to 49,2021-02-08
+33,Hispanic or Latino,Case Management,0,female,2021-03-25,DV,English,144,26 to 49,2021-03-25
+51,Hispanic or Latino,Case Management,5,female,2021-04-03,DV,Spanish,145,50 to 64,2021-04-03
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-04,DV,Spanish,146,26 to 49,2021-03-04
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-04,HT,English,147,26 to 49,2021-02-04
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-20,DV,English,148,26 to 49,2021-03-20
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-11,DV,Other,149,26 to 49,2021-03-11
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-22,DV,English,150,26 to 49,2021-02-22
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-09,DV,English,151,50 to 64,2021-04-09
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-24,DV,English,152,26 to 49,2021-03-24
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-02-03,DV,English,153,26 to 49,2021-02-03
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-01,HT,English,154,26 to 49,2021-02-01
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-02-03,DV,English,155,26 to 49,2021-02-03
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-04-07,HT,Spanish,156,26 to 49,2021-04-07
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-20,DV,English,157,26 to 49,2021-02-20
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-02-04,DV,Other,158,18 to 25,2021-02-04
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-04-14,DV,English,159,26 to 49,2021-04-14
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-04-22,DV,Other,160,26 to 49,2021-04-22
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-04-18,HT,English,161,26 to 49,2021-04-18
+40,Hispanic or Latino,Case Management,0,male,2021-03-17,DV,Spanish,162,26 to 49,2021-03-17
+45,Hispanic or Latino,Case Management,0,female,2021-02-27,HT,Spanish,163,26 to 49,2021-02-27
+33,Hispanic or Latino,Case Management,0,female,2021-03-22,DV,English,164,26 to 49,2021-03-22
+51,Hispanic or Latino,Case Management,5,female,2021-04-18,DV,Spanish,165,50 to 64,2021-04-18
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-31,DV,Spanish,166,26 to 49,2021-01-31
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-08,HT,English,167,26 to 49,2021-02-08
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-04,DV,English,168,26 to 49,2021-03-04
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-09,DV,Other,169,26 to 49,2021-02-09
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-23,DV,English,170,26 to 49,2021-02-23
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-03-11,DV,English,171,50 to 64,2021-03-11
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-02-14,DV,English,172,26 to 49,2021-02-14
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-01-28,DV,English,173,26 to 49,2021-01-28
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-03-06,HT,English,174,26 to 49,2021-03-06
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-18,DV,English,175,26 to 49,2021-03-18
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-01-23,HT,Spanish,176,26 to 49,2021-01-23
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-04-20,DV,English,177,26 to 49,2021-04-20
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-02-19,DV,Other,178,18 to 25,2021-02-19
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-18,DV,English,179,26 to 49,2021-03-18
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-02-13,DV,Other,180,26 to 49,2021-02-13
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-03-23,HT,English,181,26 to 49,2021-03-23
+40,Hispanic or Latino,Case Management,0,male,2021-03-12,DV,Spanish,182,26 to 49,2021-03-12
+45,Hispanic or Latino,Case Management,0,female,2021-02-17,HT,Spanish,183,26 to 49,2021-02-17
+33,Hispanic or Latino,Case Management,0,female,2021-02-07,DV,English,184,26 to 49,2021-02-07
+51,Hispanic or Latino,Case Management,5,female,2021-04-04,DV,Spanish,185,50 to 64,2021-04-04
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-30,DV,Spanish,186,26 to 49,2021-03-30
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-16,HT,English,187,26 to 49,2021-01-16
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-18,DV,English,188,26 to 49,2021-03-18
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-20,DV,Other,189,26 to 49,2021-03-20
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-15,DV,English,190,26 to 49,2021-03-15
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-06,DV,English,191,50 to 64,2021-04-06
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-15,DV,English,192,26 to 49,2021-03-15
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-01-28,DV,English,193,26 to 49,2021-01-28
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-01-17,HT,English,194,26 to 49,2021-01-17
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-27,DV,English,195,26 to 49,2021-03-27
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-04-08,HT,Spanish,196,26 to 49,2021-04-08
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-12,DV,English,197,26 to 49,2021-02-12
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-01-21,DV,Other,198,18 to 25,2021-01-21
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-01-21,DV,English,199,26 to 49,2021-01-21
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-02-23,DV,Other,200,26 to 49,2021-02-23
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-01-23,HT,English,201,26 to 49,2021-01-23
+40,Hispanic or Latino,Case Management,0,male,2021-04-20,DV,Spanish,202,26 to 49,2021-04-20
+45,Hispanic or Latino,Case Management,0,female,2021-03-25,HT,Spanish,203,26 to 49,2021-03-25
+33,Hispanic or Latino,Case Management,0,female,2021-01-19,DV,English,204,26 to 49,2021-01-19
+51,Hispanic or Latino,Case Management,5,female,2021-03-01,DV,Spanish,205,50 to 64,2021-03-01
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-18,DV,Spanish,206,26 to 49,2021-01-18
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-18,HT,English,207,26 to 49,2021-04-18
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-01-19,DV,English,208,26 to 49,2021-01-19
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-18,DV,Other,209,26 to 49,2021-02-18
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-01,DV,English,210,26 to 49,2021-02-01
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-01-15,DV,English,211,50 to 64,2021-01-15
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-03-08,DV,English,212,26 to 49,2021-03-08
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-04-15,DV,English,213,26 to 49,2021-04-15
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-01-31,HT,English,214,26 to 49,2021-01-31
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-02-02,DV,English,215,26 to 49,2021-02-02
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-02-21,HT,Spanish,216,26 to 49,2021-02-21
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-04-16,DV,English,217,26 to 49,2021-04-16
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-03-17,DV,Other,218,18 to 25,2021-03-17
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-01-22,DV,English,219,26 to 49,2021-01-22
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-03-27,DV,Other,220,26 to 49,2021-03-27
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-02-24,HT,English,221,26 to 49,2021-02-24
+40,Hispanic or Latino,Case Management,0,male,2021-03-05,DV,Spanish,222,26 to 49,2021-03-05
+45,Hispanic or Latino,Case Management,0,female,2021-03-02,HT,Spanish,223,26 to 49,2021-03-02
+33,Hispanic or Latino,Case Management,0,female,2021-04-09,DV,English,224,26 to 49,2021-04-09
+51,Hispanic or Latino,Case Management,5,female,2021-02-19,DV,Spanish,225,50 to 64,2021-02-19
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-17,DV,Spanish,226,26 to 49,2021-04-17
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-25,HT,English,227,26 to 49,2021-02-25
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-31,DV,English,228,26 to 49,2021-03-31
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-08,DV,Other,229,26 to 49,2021-02-08
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-04-08,DV,English,230,26 to 49,2021-04-08
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-14,DV,English,231,50 to 64,2021-04-14
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-04-14,DV,English,232,26 to 49,2021-04-14
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-20,DV,English,233,26 to 49,2021-03-20
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-03-28,HT,English,234,26 to 49,2021-03-28
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-01-16,DV,English,235,26 to 49,2021-01-16
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-25,HT,Spanish,236,26 to 49,2021-03-25
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-04-15,DV,English,237,26 to 49,2021-04-15
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-01-29,DV,Other,238,18 to 25,2021-01-29
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-03,DV,English,239,26 to 49,2021-03-03
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-01-15,DV,Other,240,26 to 49,2021-01-15
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-03-05,HT,English,241,26 to 49,2021-03-05
+40,Hispanic or Latino,Case Management,0,male,2021-04-13,DV,Spanish,242,26 to 49,2021-04-13
+45,Hispanic or Latino,Case Management,0,female,2021-03-08,HT,Spanish,243,26 to 49,2021-03-08
+33,Hispanic or Latino,Case Management,0,female,2021-02-27,DV,English,244,26 to 49,2021-02-27
+51,Hispanic or Latino,Case Management,5,female,2021-03-03,DV,Spanish,245,50 to 64,2021-03-03
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-06,DV,Spanish,246,26 to 49,2021-03-06
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-16,HT,English,247,26 to 49,2021-01-16
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-28,DV,English,248,26 to 49,2021-03-28
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-01-22,DV,Other,249,26 to 49,2021-01-22
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-20,DV,English,250,26 to 49,2021-03-20
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-23,DV,English,251,50 to 64,2021-04-23
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-04-03,DV,English,252,26 to 49,2021-04-03
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-19,DV,English,253,26 to 49,2021-03-19
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-04-04,HT,English,254,26 to 49,2021-04-04
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-04-14,DV,English,255,26 to 49,2021-04-14
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-03-10,HT,Spanish,256,26 to 49,2021-03-10
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-25,DV,English,257,26 to 49,2021-02-25
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-02-01,DV,Other,258,18 to 25,2021-02-01
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-04-06,DV,English,259,26 to 49,2021-04-06
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-01-31,DV,Other,260,26 to 49,2021-01-31
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-04-20,HT,English,261,26 to 49,2021-04-20
+40,Hispanic or Latino,Case Management,0,male,2021-02-01,DV,Spanish,262,26 to 49,2021-02-01
+45,Hispanic or Latino,Case Management,0,female,2021-03-04,HT,Spanish,263,26 to 49,2021-03-04
+33,Hispanic or Latino,Case Management,0,female,2021-01-22,DV,English,264,26 to 49,2021-01-22
+51,Hispanic or Latino,Case Management,5,female,2021-02-18,DV,Spanish,265,50 to 64,2021-02-18
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-30,DV,Spanish,266,26 to 49,2021-01-30
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-03-03,HT,English,267,26 to 49,2021-03-03
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-04-02,DV,English,268,26 to 49,2021-04-02
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-29,DV,Other,269,26 to 49,2021-03-29
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-09,DV,English,270,26 to 49,2021-03-09
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-03-31,DV,English,271,50 to 64,2021-03-31
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-02-26,DV,English,272,26 to 49,2021-02-26
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-22,DV,English,273,26 to 49,2021-03-22
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-23,HT,English,274,26 to 49,2021-02-23
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-04-05,DV,English,275,26 to 49,2021-04-05
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-01-27,HT,Spanish,276,26 to 49,2021-01-27
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-04-18,DV,English,277,26 to 49,2021-04-18
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-02-27,DV,Other,278,18 to 25,2021-02-27
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-03-21,DV,English,279,26 to 49,2021-03-21
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-03-11,DV,Other,280,26 to 49,2021-03-11
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-03-28,HT,English,281,26 to 49,2021-03-28
+40,Hispanic or Latino,Case Management,0,male,2021-04-15,DV,Spanish,282,26 to 49,2021-04-15
+45,Hispanic or Latino,Case Management,0,female,2021-02-23,HT,Spanish,283,26 to 49,2021-02-23
+33,Hispanic or Latino,Case Management,0,female,2021-02-02,DV,English,284,26 to 49,2021-02-02
+51,Hispanic or Latino,Case Management,5,female,2021-03-25,DV,Spanish,285,50 to 64,2021-03-25
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-02-02,DV,Spanish,286,26 to 49,2021-02-02
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-04-17,HT,English,287,26 to 49,2021-04-17
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-14,DV,English,288,26 to 49,2021-03-14
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-02-05,DV,Other,289,26 to 49,2021-02-05
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-20,DV,English,290,26 to 49,2021-03-20
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-04-17,DV,English,291,50 to 64,2021-04-17
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-04-10,DV,English,292,26 to 49,2021-04-10
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-27,DV,English,293,26 to 49,2021-03-27
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-06,HT,English,294,26 to 49,2021-02-06
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-03-31,DV,English,295,26 to 49,2021-03-31
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-02-07,HT,Spanish,296,26 to 49,2021-02-07
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-04-09,DV,English,297,26 to 49,2021-04-09
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-04-22,DV,Other,298,18 to 25,2021-04-22
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-01-20,DV,English,299,26 to 49,2021-01-20
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-02-05,DV,Other,300,26 to 49,2021-02-05
+49,Native Hawaiian or Other Pacific Islander,Case Management,0,male,2021-03-13,HT,English,301,26 to 49,2021-03-13
+40,Hispanic or Latino,Case Management,0,male,2021-04-15,DV,Spanish,302,26 to 49,2021-04-15
+45,Hispanic or Latino,Case Management,0,female,2021-03-02,HT,Spanish,303,26 to 49,2021-03-02
+33,Hispanic or Latino,Case Management,0,female,2021-01-30,DV,English,304,26 to 49,2021-01-30
+51,Hispanic or Latino,Case Management,5,female,2021-02-18,DV,Spanish,305,50 to 64,2021-02-18
+32,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-23,DV,Spanish,306,26 to 49,2021-01-23
+36,Hispanic or Latino,Rapid Rehousing | Case Management,4,female,2021-01-18,HT,English,307,26 to 49,2021-01-18
+43,Mixed,Rapid Rehousing | Case Management,0,female,2021-03-14,DV,English,308,26 to 49,2021-03-14
+32,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-27,DV,Other,309,26 to 49,2021-03-27
+33,Black or African American,Rapid Rehousing | Case Management,4,female,2021-03-09,DV,English,310,26 to 49,2021-03-09
+50,White or Caucasian,Rapid Rehousing | Case Management,1,female,2021-03-18,DV,English,311,50 to 64,2021-03-18
+26,Black or African American,Emergency Shelter | Case Management,1,female,2021-04-06,DV,English,312,26 to 49,2021-04-06
+30,Hispanic or Latino,Emergency Shelter | Case Management,2,female,2021-03-09,DV,English,313,26 to 49,2021-03-09
+36,Black or African American,Emergency Shelter | Case Management,2,female,2021-02-28,HT,English,314,26 to 49,2021-02-28
+41,Hispanic or Latino,Emergency Shelter | Case Management,5,female,2021-02-08,DV,English,315,26 to 49,2021-02-08
+29,Black or African American,Emergency Shelter | Case Management,0,male,2021-01-20,HT,Spanish,316,26 to 49,2021-01-20
+33,Black or African American|African (Congo),Emergency Shelter | Case Management,1,female,2021-02-05,DV,English,317,26 to 49,2021-02-05
+25,Afghan,Emergency Shelter | Case Management,2,female,2021-04-13,DV,Other,318,18 to 25,2021-04-13
+29,Hispanic or Latino,Emergency Shelter | Case Management,1,female,2021-02-11,DV,English,319,26 to 49,2021-02-11
+29,Black or African American|multicultural,Emergency Shelter | Case Management,3,male,2021-04-08,DV,Other,320,26 to 49,2021-04-08
