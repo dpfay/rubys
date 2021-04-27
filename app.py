@@ -12,17 +12,15 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
+server = app.server
+
 df = pd.read_csv('sample_set_manipulated.csv')
 
 color_pallete = ['#DD4404','#f9bf3e','#383481','#474646']
 count_id = df['id'].value_counts()
 sex = df['sex'].str.capitalize()
 
-<<<<<<< HEAD
 fig_1 = px.bar(df['race_ethnicity'].value_counts(sort=True),
-=======
-fig_1 = px.bar(df['race_ethnicity'].value_counts(sort=True), 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                title='Ethnicity',
                labels={'race_ethnicity':'Ethnicity',
                        'value':'Number of Clients',
@@ -35,11 +33,7 @@ fig_1.update_layout(showlegend=False,
                     xaxis_showticklabels=True,
                     margin_l=350)
 
-<<<<<<< HEAD
 fig_2 = px.pie(df, names=sex,
-=======
-fig_2 = px.pie(df, names=sex, 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                values=count_id,
                title='Gender',
                labels={'sex':'Gender','values':'Number of clients','label':'Gender'},
@@ -47,11 +41,7 @@ fig_2 = px.pie(df, names=sex,
 fig_2.update_traces(textposition='inside', textinfo='percent+label')
 fig_2.update_layout(showlegend=False)
 
-<<<<<<< HEAD
 fig_3 = px.bar(df['age_group'].value_counts(sort=True).sort_index(),
-=======
-fig_3 = px.bar(df['age_group'].value_counts(sort=True).sort_index(), 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                      title='Age Groups',
                      labels={'age_group':'Age Groups',
                              'index':'Age Groups',
@@ -61,11 +51,7 @@ fig_3 = px.bar(df['age_group'].value_counts(sort=True).sort_index(),
                      orientation='v')
 fig_3.update_layout(showlegend=False,margin_l=120)
 
-<<<<<<< HEAD
 fig_4 = px.pie(df, names='language',
-=======
-fig_4 = px.pie(df, names='language', 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                values=count_id,
                title='Language',
                labels={'language':'Language','values':'Number of clients'},
@@ -73,11 +59,7 @@ fig_4 = px.pie(df, names='language',
 fig_4.update_traces(textposition='inside', textinfo='percent+label')
 fig_4.update_layout(showlegend=False)
 
-<<<<<<< HEAD
 fig_5 = px.pie(df, names='dv_ht',
-=======
-fig_5 = px.pie(df, names='dv_ht', 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                values=count_id,
                title='Domestic Violence vs Human Trafficking',
                labels={'dv_ht':'Service Category','DV':'Domestic Violence','HT':'Human Trafficking','values':'Number of clients'},
@@ -96,11 +78,8 @@ fig_6 = px.histogram(df, x='service_date', y=count_id, color='dv_ht',
                      color_discrete_sequence=color_pallete,
                      template='simple_white')
 
-<<<<<<< HEAD
+
 fig_7 = px.pie(df, names='services_provided',
-=======
-fig_7 = px.pie(df, names='services_provided', 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                values=count_id,
                title='Services Provided',
                labels={'services_provided':'Services Provided','values':'Number of clients'},
@@ -178,11 +157,8 @@ app.layout = html.Div(children=[
                                             'height': '100%',
                                             'padding': '25px'}),
                         html.Div([
-<<<<<<< HEAD
                             html.H1(children="Ruby's Place by the numbers",
-=======
-                            html.H1(children="Ruby's Place by the numbers", 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
+
                                     style={'textAlign':'center',
                                            'font':'Arial',
                                            'border':'thick double #32alce',
@@ -192,11 +168,7 @@ app.layout = html.Div(children=[
                                     style={'textAlign':'center',
                                            'font':'Arial',
                                            'color':'#383481'})
-<<<<<<< HEAD
                             ],
-=======
-                            ], 
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
 #                                 className="eleven columns"
                         )
                     ], className="row",
@@ -210,11 +182,7 @@ app.layout = html.Div(children=[
                     html.Br(),
                     html.Br(),
                     html.Br(),
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                     html.H2(children='Overall Numbers',
                             style={'textAlign':'center',
                                    'font':'bold arial',
@@ -237,17 +205,10 @@ app.layout = html.Div(children=[
                                                  'fontSize':25}
                                          , className='four columns')
                     ], className='row'),
-<<<<<<< HEAD
 
                     html.Br(),
                     html.Br(),
 
-=======
-    
-                    html.Br(),
-                    html.Br(),
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                     html.H2(children='Demographics',
                             style={'textAlign':'center',
                                    'font':'Arial',
@@ -269,20 +230,11 @@ app.layout = html.Div(children=[
                         html.Div([dcc.Graph(figure=fig_3)], className="five columns")
                     ], className='row'),
 
-<<<<<<< HEAD
+                    html.Br(),
+                    html.Br(),
+                    html.Br(),
+                    html.Br(),
 
-=======
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
-                    html.Br(),
-                    html.Br(),
-                    html.Br(),
-                    html.Br(),
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                     html.H2(children='Services',
                             style={'textAlign':'center',
                                    'font':'Arial',
@@ -298,37 +250,19 @@ app.layout = html.Div(children=[
 
                     html.Br(),
                     html.Br(),
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
                     html.Div([
                         html.Div([dcc.Graph(figure=fig_6)])
                     ], className='row'),
 
                     html.Br(),
                     html.Br(),
-<<<<<<< HEAD
 
                     html.Div([
                         html.Div([dcc.Graph(figure=fig_8)])
                     ], className='row')
-
-=======
-    
-                    html.Div([
-                        html.Div([dcc.Graph(figure=fig_8)])
-                    ], className='row')
-    
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
     ])
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-    server = app.server
-
-
->>>>>>> ce7a0a3fe76b0654f0f40d5f69efa2bbc5455bee
-
+    app.run_server(debug = True)
